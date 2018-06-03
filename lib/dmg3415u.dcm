@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMG3415U
+D -20V Vds, -4.0A Id, P-Channel MOSFET, SOT-23-3
+K P-Channel MOSFET
+F http://akizukidenshi.com/download/DMG3415U.pdf
+$ENDCMP
+#
+#End Doc Library
