@@ -2,7 +2,7 @@
 
   (general
     (links 31)
-    (no_connects 25)
+    (no_connects 31)
     (area 0 0 0 0)
     (thickness 1.6)
     (drawings 0)
@@ -142,7 +142,7 @@
   )
 
   (module Capacitors_THT:CP_Radial_Tantal_D4.5mm_P2.50mm (layer F.Cu) (tedit 597C781B) (tstamp 5B13AD58)
-    (at 148.5011 105.0036)
+    (at 121.92 102.87)
     (descr "CP, Radial_Tantal series, Radial, pin pitch=2.50mm, , diameter=4.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf")
     (tags "CP Radial_Tantal series Radial pin pitch 2.50mm  diameter 4.5mm Tantal Electrolytic Capacitor")
     (path /5B1385F6)
@@ -179,7 +179,7 @@
   )
 
   (module Capacitors_THT:CP_Radial_Tantal_D4.5mm_P2.50mm (layer F.Cu) (tedit 597C781B) (tstamp 5B13AD5E)
-    (at 148.5011 105.0036)
+    (at 144.78 127)
     (descr "CP, Radial_Tantal series, Radial, pin pitch=2.50mm, , diameter=4.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf")
     (tags "CP Radial_Tantal series Radial pin pitch 2.50mm  diameter 4.5mm Tantal Electrolytic Capacitor")
     (path /5B138B43)
@@ -216,7 +216,7 @@
   )
 
   (module Diodes_THT:D_A-405_P7.62mm_Horizontal (layer F.Cu) (tedit 5921392E) (tstamp 5B13AD64)
-    (at 148.5011 105.0036)
+    (at 162.56 121.92)
     (descr "D, A-405 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "D A-405 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm")
     (path /5B13A685)
@@ -259,7 +259,7 @@
   )
 
   (module Diodes_THT:D_A-405_P7.62mm_Horizontal (layer F.Cu) (tedit 5921392E) (tstamp 5B13AD6A)
-    (at 148.5011 105.0036)
+    (at 167.64 104.14)
     (descr "D, A-405 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "D A-405 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm")
     (path /5B13A63E)
@@ -302,7 +302,7 @@
   )
 
   (module Diodes_THT:D_A-405_P7.62mm_Horizontal (layer F.Cu) (tedit 5921392E) (tstamp 5B13AD70)
-    (at 148.5011 105.0036)
+    (at 160.02 96.52)
     (descr "D, A-405 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "D A-405 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm")
     (path /5B13A5EB)
@@ -345,7 +345,7 @@
   )
 
   (module Socket_Strips:Socket_Strip_Straight_1x02_Pitch2.54mm (layer F.Cu) (tedit 58CD5446) (tstamp 5B13AD76)
-    (at 148.5011 105.0036)
+    (at 184.15 120.65)
     (descr "Through hole straight socket strip, 1x02, 2.54mm pitch, single row")
     (tags "Through hole socket strip THT 1x02 2.54mm single row")
     (path /5B13EE72)
@@ -384,7 +384,7 @@
   )
 
   (module Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm (layer F.Cu) (tedit 58CD5446) (tstamp 5B13AD7B)
-    (at 148.5011 105.0036)
+    (at 176.53 115.57)
     (descr "Through hole straight socket strip, 1x01, 2.54mm pitch, single row")
     (tags "Through hole socket strip THT 1x01 2.54mm single row")
     (path /5B13B0C0)
@@ -421,7 +421,7 @@
   )
 
   (module Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm (layer F.Cu) (tedit 58CD5446) (tstamp 5B13AD80)
-    (at 148.5011 105.0036)
+    (at 158.75 130.81)
     (descr "Through hole straight socket strip, 1x01, 2.54mm pitch, single row")
     (tags "Through hole socket strip THT 1x01 2.54mm single row")
     (path /5B13B10F)
@@ -458,7 +458,7 @@
   )
 
   (module Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm (layer F.Cu) (tedit 58CD5446) (tstamp 5B13AD85)
-    (at 148.5011 105.0036)
+    (at 177.8 133.35)
     (descr "Through hole straight socket strip, 1x01, 2.54mm pitch, single row")
     (tags "Through hole socket strip THT 1x01 2.54mm single row")
     (path /5B13B174)
@@ -495,7 +495,7 @@
   )
 
   (module Socket_Strips:Socket_Strip_Straight_1x02_Pitch2.54mm (layer F.Cu) (tedit 58CD5446) (tstamp 5B13AD8B)
-    (at 148.5011 105.0036)
+    (at 185.42 102.87)
     (descr "Through hole straight socket strip, 1x02, 2.54mm pitch, single row")
     (tags "Through hole socket strip THT 1x02 2.54mm single row")
     (path /5B13EFDA)
@@ -534,7 +534,7 @@
   )
 
   (module TO_SOT_Packages_THT:TO-92_Molded_Narrow (layer F.Cu) (tedit 58CE52AF) (tstamp 5B13AD92)
-    (at 148.5011 105.0036)
+    (at 138.43 93.98)
     (descr "TO-92 leads molded, narrow, drill 0.6mm (see NXP sot054_po.pdf)")
     (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
     (path /5B138044)
@@ -571,7 +571,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23 (layer F.Cu) (tedit 58CE4E7E) (tstamp 5B13AD99)
-    (at 148.5011 105.0036)
+    (at 135.89 130.81)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /5B139613)
@@ -612,7 +612,7 @@
   )
 
   (module Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5874F706) (tstamp 5B13AD9F)
-    (at 148.5011 105.0036)
+    (at 146.05 102.87)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.16666666666666666W = 1/6W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.16666666666666666W = 1/6W length 3.6mm diameter 1.6mm")
     (path /5B1385BA)
@@ -650,7 +650,7 @@
   )
 
   (module Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5874F706) (tstamp 5B13ADA5)
-    (at 148.5011 105.0036)
+    (at 149.86 110.49)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.16666666666666666W = 1/6W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.16666666666666666W = 1/6W length 3.6mm diameter 1.6mm")
     (path /5B138ADA)
@@ -688,7 +688,7 @@
   )
 
   (module Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5874F706) (tstamp 5B13ADAB)
-    (at 148.5011 105.0036)
+    (at 142.24 106.68)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.16666666666666666W = 1/6W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.16666666666666666W = 1/6W length 3.6mm diameter 1.6mm")
     (path /5B13863B)
@@ -726,7 +726,7 @@
   )
 
   (module Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5874F706) (tstamp 5B13ADB1)
-    (at 148.5011 105.0036)
+    (at 160.02 110.49)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.16666666666666666W = 1/6W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.16666666666666666W = 1/6W length 3.6mm diameter 1.6mm")
     (path /5B138BC0)
@@ -764,7 +764,7 @@
   )
 
   (module Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5874F706) (tstamp 5B13ADB7)
-    (at 148.5011 105.0036)
+    (at 144.78 116.84)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.16666666666666666W = 1/6W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.16666666666666666W = 1/6W length 3.6mm diameter 1.6mm")
     (path /5B139294)
@@ -802,7 +802,7 @@
   )
 
   (module stmlib:OKL_T6 (layer F.Cu) (tedit 571E3609) (tstamp 5B13ADCD)
-    (at 148.5011 105.0036)
+    (at 130.81 119.38)
     (path /5B139577)
     (fp_text reference U1 (at 0 1.27) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
