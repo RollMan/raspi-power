@@ -1,4 +1,4 @@
-update=2018/06/10 11:25:55
+update=Sun 10 Jun 2018 07:40:28 PM JST
 version=1
 last_client=kicad
 [pcbnew]
